@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.liendeedusa.support</groupId>
-	<artifactId>liendeed-suport</artifactId>
+	<artifactId>liendeed-support</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>liendeed-suport</name>
+	<name>liendeed-support</name>
 	<description>Spring App to Support LienDeeD Platform</description>
 
 	<parent>
